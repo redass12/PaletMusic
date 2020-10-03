@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/PaletMusic/static/css/main.1fcaaad6.chunk.css",
+    "main.js": "/PaletMusic/static/js/main.602141fa.chunk.js",
+    "main.js.map": "/PaletMusic/static/js/main.602141fa.chunk.js.map",
+    "runtime-main.js": "/PaletMusic/static/js/runtime-main.c40b53f2.js",
+    "runtime-main.js.map": "/PaletMusic/static/js/runtime-main.c40b53f2.js.map",
+    "static/js/2.cfa82f13.chunk.js": "/PaletMusic/static/js/2.cfa82f13.chunk.js",
+    "static/js/2.cfa82f13.chunk.js.map": "/PaletMusic/static/js/2.cfa82f13.chunk.js.map",
+    "index.html": "/PaletMusic/index.html",
+    "precache-manifest.22cfea626c68cd744dfe8b51d4ea0ff1.js": "/PaletMusic/precache-manifest.22cfea626c68cd744dfe8b51d4ea0ff1.js",
+    "service-worker.js": "/PaletMusic/service-worker.js",
+    "static/css/main.1fcaaad6.chunk.css.map": "/PaletMusic/static/css/main.1fcaaad6.chunk.css.map",
+    "static/js/2.cfa82f13.chunk.js.LICENSE.txt": "/PaletMusic/static/js/2.cfa82f13.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c40b53f2.js",
+    "static/js/2.cfa82f13.chunk.js",
+    "static/css/main.1fcaaad6.chunk.css",
+    "static/js/main.602141fa.chunk.js"
+  ]
+}
